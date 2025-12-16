@@ -1,5 +1,5 @@
 {
-  "force_update": "1",
-  "google_in_review": "4",
-  "apple_in_review": "4"
+  "force_update": "1.0.0",
+  "google_in_review": "4.0.0",
+  "apple_in_review": "4.0.0"
 }
