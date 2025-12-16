@@ -1,9 +1,5 @@
 {
-  "force_update": "1.0.5",
+  "force_update": "1.0.0",
   "google_in_review": "1.0.0",
-  "apple_in_review": "1.0.0",
-  "gentle_update": "1.0.7",
-  "whats_new": {
-    "1.0.7": ["ميزة جديدة", "تحسينات", "إصلاحات"]
-  }
+  "apple_in_review": "1.0.0"
 }
