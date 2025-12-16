@@ -2,7 +2,9 @@
   "force_update": "1.0.5",
   "google_in_review": "1.0.5",
   "apple_in_review": "1.0.5",
-  "gentil_update": "1.0.7",
-  "release_notes": ["","",""],
-  "waht_is_new": {"1.0.7":["","",""]}
+  "gentle_update": "1.0.7",
+  "release_notes": ["", "", ""],
+  "whats_new": {
+    "1.0.7": ["ميزة جديدة", "تحسينات", "إصلاحات"]
+  }
 }
